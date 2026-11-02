@@ -5,7 +5,7 @@
 
 **바로 사용:** https://pharaoh-code-omega.vercel.app
 
-![게임 화면](docs/screenshot.png)
+![게임 화면](/screenshot.png)
 
 ## 왜 만들었나
 
